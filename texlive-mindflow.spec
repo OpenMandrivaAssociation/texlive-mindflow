@@ -1,6 +1,6 @@
 Name:		texlive-mindflow
 Version:	61843
-Release:	1
+Release:	2
 Summary:	Write your ideas in a clear way
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mindflow
