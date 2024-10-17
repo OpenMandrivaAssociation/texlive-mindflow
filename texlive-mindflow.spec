@@ -3,7 +3,7 @@ Version:	65236
 Release:	1
 Summary:	Write your ideas in a clear way
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mindflow
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mindflow
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mindflow.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mindflow.doc.r%{version}.tar.xz
